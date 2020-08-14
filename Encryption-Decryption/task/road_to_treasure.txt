@@ -1,0 +1,1 @@
+java Main -mode enc -key 5 -data "Welcome to hyperskill!"

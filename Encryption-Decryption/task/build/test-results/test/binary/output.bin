@@ -1,0 +1,71 @@
+[1;31m
+Start test 1[0m
+alg: unicode
+key: 5
+ck: \jqhtrj%yt%m~ujwxpnqq&
+[1;31m
+Start test 2[0m
+key: 0
+alg: unicode
+	ck: Hello
+[1;31m
+Start test 3[0m
+key: 1
+alg: unicode
+ck: 123456789
+[1;31m
+Start test 4[0m
+alg: unicode
+key: 5
+kc: Welcome to hyperskill!
+[1;31m
+Start test 5[0m
+alg: unicode
+key: 0
+kc: Hi
+[1;31m
+Start test 6[0m
+key: 1
+alg: unicode
+kc: 111122223333
+[1;31m
+Start test 7[0m
+key: 5
+
+alg: shift
+$cipher_key_OG: bjqhtrj yt mdujwxpnqq
+[1;31m
+Start test 8[0m
+key: 10
+
+alg: shift
+dbokcebo | 10
+d => 90 ==> 116
+b => 88 ==> 114
+o => 101 ==> 101
+k => 97 ==> 97
+c => 89 ==> 115
+e => 91 ==> 117
+b => 88 ==> 114
+o => 101 ==> 101
+key_cipher_OG: treasure
+[1;31m
+Start test 9[0m
+key: 12
+
+alg: shift
+7cipher_key_OG: cphpchdjcijdjibhdjebhjucspucmdmudbnuccup
+[1;31m
+Start test 10[0m
+key: 10
+
+alg: shift
+i | 10
+i => 95 ==> 121
+key_cipher_OG: y
+[1;31m
+Start test 11[0m
+key: 10
+
+alg: shift
+cipher_key_OG: i
